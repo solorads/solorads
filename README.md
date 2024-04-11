@@ -13,7 +13,7 @@ Experienced self-taught programmer adept in Python, Lua, C#, and C. Proficient i
 - Compensation. ( Must be above 20% & Must be given up front. )
 
 ## 📱 Contact information
-- Email: developer@solorads .site
-- Communcations: @ solorads
+- Email: developer@solorads.site
+- Discord: @solorads
 
 ### Open to hire: Web development
